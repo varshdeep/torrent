@@ -27,7 +27,7 @@
   "dependencies": {
     "archiver": "^3.0.0",
     "connect-multiparty": "^2.0.0",
-    "express": "^3.21.2",
+    "express": "^4.17.3",
     "lodash": "^4",
     "mkdirp": "^0.5.1",
     "pump": "^1.0.2",
